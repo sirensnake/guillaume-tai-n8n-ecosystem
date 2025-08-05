@@ -1,0 +1,2 @@
+# Dossier pour les logs de debug des sessions
+# Les fichiers de log seront ignorés par Git (.gitignore)

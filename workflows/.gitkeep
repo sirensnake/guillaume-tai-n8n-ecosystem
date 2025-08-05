@@ -1,0 +1,9 @@
+# Ce dossier contiendra les workflows N8N JSON
+# Les workflows seront ajoutés au fur et à mesure du développement
+
+## Workflows prévus :
+- master_coordinator_v2.0.json
+- rag_enhanced_hybrid_v3.0.json  
+- productivity_agent_v1.5.json
+- learning_agent_v1.8.json
+- content_agent_v1.2.json
